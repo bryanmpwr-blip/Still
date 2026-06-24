@@ -13,7 +13,7 @@ noDisturb ("we", "our", or "us") is committed to protecting your privacy. This P
 ## 2. Information We Collect
 
 ### Account Information
-- **Name / Username** — Your display name, used to personalize your in-app profile.
+- **Name / Username** — Your display name, used to personalize your in-app profile. 
 - **Email Address** — Used to create and authenticate your account via our backend service (Supabase).
 - **User ID** — A unique identifier assigned to your account to maintain your data across sessions.
 
