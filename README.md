@@ -1,4 +1,4 @@
-# Privacy Policy — noDisturb
+# Privacy Policy — Still
 
 **Last updated: June 24, 2026**
 
